@@ -1,16 +1,36 @@
-# todo_app
+# To-Do
 
-A simple To-Do App
+This repository holds the source code for To-Do, a beginner-friendly To-Do app built with Flutter. This app showcases the use of the Provider package to manage state (e.g. to add and remove tasks).
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Key Features:
 
-A few resources to get you started if this is your first Flutter project:
+-. Simple and intuitive interface: Easy to navigate and understand, perfect for both new and experienced Flutter users.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-. Dynamic information: Displays current To-Dos or Tasks, whether they are done or not.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-. Interactive UI: Add or remove To-Dos or Tasks with ease.
+
+-. Clean and organized code: Follows best practices for readability and maintainability.
+
+-. Open source: Contribute to the project and learn from others!
+
+
+# Getting Started:
+
+-. Clone the repository: Use git clone https://github.com/bryantach06/ToDo.git to download the code.
+
+-. Run the app: Make sure you have Flutter installed and configured. Then, run flutter run to launch the app on your device or simulator.
+
+-. Customize (Optional): Modify the colors, fonts, and other aspects of the UI to match your preferences.
+
+
+# Dependencies:
+
+-. Provider: Used to manage state and flow of the app. (https://pub.dev/packages/provider)
+
+
+# Contributing:
+
+We welcome contributions from the community! Feel free to suggest improvements, fix bugs, or add new features. Please follow the contribution guidelines before submitting a pull request.
+
